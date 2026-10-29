@@ -19,6 +19,10 @@
   ],
   "author": "Soumya Bhandare (krishyaa06)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishyaa06/neonpulse-music-bot/issues"
+  },
+  "homepage": "https://krishyaa06.github.io/prism-bots-panel/#/bot/neonpulse",
   "engines": {
     "node": ">=18.17"
   },
